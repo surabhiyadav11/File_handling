@@ -23,7 +23,6 @@ int main()
             while (getchar() != '\n');
             continue;
         }
-
         if (choice < 1 || choice > 5)
         {
             printf("Invalid choice! Please enter 1 to 5.\n");
