@@ -28,7 +28,6 @@ int main()
             printf("Invalid choice! Please enter 1 to 5.\n");
             continue;
         }
-
         switch (choice)
         {
             case 1:
